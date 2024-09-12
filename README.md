@@ -203,7 +203,7 @@
 
 
 ## `BOT-OWNER`
-<a href="https://github.com/Kingbega"><img src="https://github.com/Kingbega.png" width="250" height="250" alt="Baraka"/></a>
+<a href="https://github.com/Kingbega"><img src="https://github.com/Kingbegaa.png" width="250" height="250" alt="Baraka"/></a>
 
 
 ## `MAIN-DEV`
@@ -221,11 +221,11 @@ const { existsSync, writeFileSync } = require('fs')
 
 const SESSION_ID = 'ADD YOUR SESSION ID' // Edit this line only, don't remove ' <- this symbol
 
-if (!existsSync('baraka')) {
+if (!existsSync('Kingbegaa')) {
   console.log('Cloning the repository...')
   const cloneResult = spawnSync(
     'git',
-    ['clone', 'https://github.com/Kingbega/BARAKA-MD-V1.git', 'baraka'],
+    ['clone', 'https://github.com/Kingbega/BARAKA-MD-V2.git', 'Kingbegaa'],
     {
       stdio: 'inherit',
     }
@@ -235,7 +235,7 @@ if (!existsSync('baraka')) {
     throw new Error(`Failed to clone the repository: ${cloneResult.error.message}`)
   }
 
-  const configPath = 'baraka/config.env'
+  const configPath = 'Kingbegaa/config.env'
   try {
     console.log('Writing to config.env...')
     writeFileSync(configPath, `VPS=true\nSESSION_ID=${SESSION_ID}`)
@@ -245,7 +245,7 @@ if (!existsSync('baraka')) {
 
   console.log('Installing dependencies...')
   const installResult = spawnSync('yarn', ['install', '--network-concurrency', '3'], {
-    cwd: 'baraka',
+    cwd: 'Kingbegaa',
     stdio: 'inherit',
   })
 
@@ -254,7 +254,7 @@ if (!existsSync('baraka')) {
   }
 }
 
-spawnSync('yarn', ['start'], { cwd: 'baraka', stdio: 'inherit' })
+spawnSync('yarn', ['start'], { cwd: 'Kingbegaa', stdio: 'inherit' })
 ```
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

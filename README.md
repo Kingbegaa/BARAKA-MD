@@ -221,7 +221,7 @@ const { existsSync, writeFileSync } = require('fs')
 
 const SESSION_ID = 'ADD YOUR SESSION ID' // Edit this line only, don't remove ' <- this symbol
 
-if (!existsSync('Itxxwasi')) {
+if (!existsSync('baraka')) {
   console.log('Cloning the repository...')
   const cloneResult = spawnSync(
     'git',

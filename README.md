@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                              𝐁𝐀𝐑𝐀𝐊𝐀-𝐌𝐃-𝐕2 
+<p align="center">                                                  𝐁𝐀𝐑𝐀𝐊𝐀-𝐌𝐃 
 
 
 </p>
@@ -22,18 +22,18 @@
 
 
  <p align="left">
-  <a href="https://github.com/Kingbegaa/BARAKA-MD-V2/fork">
-    <img src="https://img.shields.io/github/forks/Kingbegaa/BARAKA-MD-V2?label=Fork&style=social">
+  <a href="https://github.com/Kingbegaa/BARAKA-MD/fork">
+    <img src="https://img.shields.io/github/forks/Kingbegaa/BARAKA-MD?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/Kingbegaa/BARAKA-MD-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/Kingbegaa/BARAKA-MD-V2?style=social">
+  <a href="https://github.com/Kingbegaa/BARAKA-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/Kingbegaa/BARAKA-MD?style=social">
       
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## `BARAKA-MD-V2 FEATURES`
+## `BARAKA-MD FEATURES`
 
 
 
@@ -60,7 +60,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Kingbegaa/BARAKA-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Kingbegaa/BARAKA-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get session id by (SCANNING QR1)
@@ -89,7 +89,7 @@
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Kingbegaa/bega-media-v2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Kingbegaa/bega-media' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 #### DEPLOY TO REPLIT

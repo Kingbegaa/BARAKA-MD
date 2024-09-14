@@ -213,7 +213,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-#### DEPLOY ON PANEL
+#### DEPLOY ON PANEL/KOYEB
 
 ```
 const { spawnSync } = require('child_process')
@@ -225,7 +225,7 @@ if (!existsSync('Kingbegaa')) {
   console.log('Cloning the repository...')
   const cloneResult = spawnSync(
     'git',
-    ['clone', 'https://github.com/Kingbega/BARAKA-MD-V2.git', 'Kingbegaa'],
+    ['clone', 'https://github.com/Kingbegaa/BARAKA-MD.git', 'Kingbegaa'],
     {
       stdio: 'inherit',
     }
